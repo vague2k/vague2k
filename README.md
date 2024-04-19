@@ -1,8 +1,7 @@
 ## 👋 Hi!
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&label=Visitors&abbreviated=true)
 
 I'm Albert self-taught programmer using NeoVim (btw) and Arch (btw) focusing on Lua and Go as my flavor of the month. Here are some quick facts about me...
-- I use a monochrome theme in my editor!
+- I use a monochrome theme in my editor! (specifically zenbones)
 - My favorite manga is Berserk (I have the brand of sacrifice tatooed on my wrist!)
 - In my free time I play the guitar.
 - Spending time with my beautiful wife (to be.)
